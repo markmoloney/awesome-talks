@@ -11,4 +11,4 @@ The title "Think Again" is a reference to Adam Grant's book of the same name tha
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ## A list of awesome books
 
-* [The Science of Self-Compassion with Kristin Neff] (https://www.youtube.com/watch?v=y0gtnOXAp-U)
+* [The Science of Self-Compassion with Kristin Neff](https://www.youtube.com/watch?v=y0gtnOXAp-U)
